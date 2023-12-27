@@ -1,8 +1,8 @@
 # Software Architect
 <list>
 	<ul>
-		<li> <a>• English</a> </li>
-		<li> <a>• Português Brasileiro</a> </li>
+		<li> <a src="">English</a> </li>
+		<li> <a src="">Português Brasileiro</a> </li>
 	</ul>
 </list>
 <br><br>
