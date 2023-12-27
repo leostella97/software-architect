@@ -1,6 +1,7 @@
 # Software Architect
 <list>
 	<ul>
+		## <b>Languages</b>
 		<li> <a href="https://github.com/leostella97/software-architect/blob/main/README.md">English</a> </li>
 		<li> <a href="https://github.com/leostella97/software-architect/blob/main/README_pt-br.md">Português Brasileiro</a> </li>
 	</ul>
