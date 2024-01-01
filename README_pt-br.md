@@ -9,8 +9,9 @@
 <br>
 <img src="https://github.com/leostella97/software-architect/blob/main/img/software-architect.png?raw=true">
 <br><br>
+
 ## O que é?
-<br>
+
 Um arquiteto de software é um profissional responsável por projetar e criar a estrutura de sistemas de software complexos. Esses profissionais desempenham um papel crucial no desenvolvimento de software, garantindo que os sistemas sejam eficientes, escaláveis e atendam aos requisitos funcionais e não funcionais.
 <br>
 O arquiteto de software é responsável por tomar decisões de alto nível relacionadas à organização do código, escolha de tecnologias, design de sistemas e integração de componentes. Eles precisam entender os requisitos do cliente e traduzi-los em uma arquitetura técnica viável.

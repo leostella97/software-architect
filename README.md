@@ -9,8 +9,9 @@
 <br>
 <img src="https://github.com/leostella97/software-architect/blob/main/img/software-architect.png?raw=true">
 <br><br>
+
 ## What is it?
-<br>
+
 A software architect is a professional responsible for designing and creating the structure of complex software systems. These professionals play a crucial role in software development, ensuring that systems are efficient, scalable, and meet functional and non-functional requirements.
 <br>
 The software architect is responsible for making high-level decisions related to code organization, choice of technologies, systems design, and component integration. They need to understand customer requirements and translate them into a viable technical architecture.
